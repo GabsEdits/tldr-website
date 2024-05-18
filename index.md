@@ -23,7 +23,7 @@ titleTemplate:
 
 The tldr pages are a community effort to simplify the beloved [man pages](https://en.wikipedia.org/wiki/Man_page) with practical examples.
 
-![tldr screenshot](assets/img/screenshot.png#static)
+![tldr screenshot](/assets/img/screenshot.png#static)
 <figcaption>Example of a tldr page for the <code>tar</code> command</figcaption>
 
 Try the [live demo](https://tldr.inbrowser.app) below, have a look at the [PDF version](/assets/tldr-book.pdf), or follow the [installation instructions](#installation).
