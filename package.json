@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "pages:dev": "vitepress dev pages",
-    "pages:build": "vitepress build pages",
-    "pages:preview": "vitepress preview pages"
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
   },
   "dependencies": {
     "aplos": "^1.5.0"

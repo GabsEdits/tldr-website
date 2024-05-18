@@ -1,0 +1,36 @@
+main {
+ max-width: 730px;
+}
+
+#badges {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    max-width: 100%;
+
+    img {
+        height: auto;
+        border-radius: 0;
+        width: unset;
+        margin: 0;
+        display: inline;
+        max-width: 100%;
+        cursor: pointer;
+    }
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: var(--color-accent);
+    margin-bottom: 0;
+}
+
+#iframe {
+    border: var(--color-border) 1px solid;
+    border-radius: 0.625rem;
+}

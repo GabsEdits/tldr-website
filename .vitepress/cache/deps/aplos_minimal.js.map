@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../node_modules/.pnpm/aplos@1.5.0/node_modules/aplos/minimal.ts"],
+  "sourcesContent": ["import \"./minimal/Layout.vue\";\nimport \"./styles/index.scss\";\nimport \"inter-ui/inter.css\";\nimport \"inter-ui/inter-variable.css\";\nimport \"non.geist/mono\"\n"],
+  "mappings": ";AAAA,OAAO;AACP,OAAO;AACP,OAAO;AACP,OAAO;",
+  "names": []
+}

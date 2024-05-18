@@ -1,0 +1,43 @@
+{
+  "hash": "29133f5b",
+  "configHash": "0c1db5d7",
+  "lockfileHash": "3a2cb8d0",
+  "browserHash": "2c9ca6b4",
+  "optimized": {
+    "vue": {
+      "src": "../../../node_modules/.pnpm/vue@3.4.27/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "a432d08e",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../node_modules/.pnpm/@vue+devtools-api@7.2.0_vue@3.4.27/node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "0f74b484",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../node_modules/.pnpm/@vueuse+core@10.9.0_vue@3.4.27/node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "042e6b67",
+      "needsInterop": false
+    },
+    "aplos/minimal": {
+      "src": "../../../node_modules/.pnpm/aplos@1.5.0/node_modules/aplos/minimal.ts",
+      "file": "aplos_minimal.js",
+      "fileHash": "424b5844",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-RV5F5XHA": {
+      "file": "chunk-RV5F5XHA.js"
+    },
+    "aplos_minimal.css.map": {
+      "file": "aplos_minimal__css__map.js"
+    },
+    "aplos_minimal.css": {
+      "file": "aplos_minimal__css.js"
+    }
+  }
+}
